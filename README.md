@@ -1,2 +1,2 @@
 # in_C
-structures&amp;+a in c
+structures & amp;+a in c
